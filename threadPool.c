@@ -1,4 +1,4 @@
-// Omri Fridental 323869545
+// Omri Fridental
 
 #include "threadPool.h"
 #include <stdlib.h>
