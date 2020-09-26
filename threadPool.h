@@ -1,4 +1,4 @@
-// Omri Fridental 323869545
+// Omri Fridental
 
 #include "osqueue.h"
 #include <pthread.h>
